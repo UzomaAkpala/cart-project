@@ -1,0 +1,9 @@
+body {
+  background-color: rgb(248, 241, 233);
+}
+button {
+  background-color: aqua;
+  color: black;
+  border-radius: 5px;
+  height: 30px;
+}
